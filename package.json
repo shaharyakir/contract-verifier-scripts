@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@orbs-network/ton-gateway": "^2.1.0",
+    "bn.js": "^5.2.1",
+    "node-fetch": "^2.6.7",
+    "ton": "^12.1.5"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.1",
+    "@types/node": "^18.11.11",
+    "@types/node-fetch": "^2.6.2"
+  }
+}
